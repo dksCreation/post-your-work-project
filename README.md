@@ -1,6 +1,5 @@
 >**Note**: Please **fork** this Udacity repository so you have a **remote** repository in **your** GitHub account. Then you can clone the remote repository to your local machine. Later, as a part of the project, you will push your changes to the remote repository in your GitHub account.
 
-
 # Project Title
 
 **Bike Share** a Python-based data analysis project that explores bike-sharing data to identify travel trends, popular stations, peak usage times, trip durations, and user demographics. The project allows users to filter data by city, month, and day to generate meaningful insights and see the reports.
@@ -49,6 +48,6 @@ This project was developed using Python and Pandas for data analysis.
 
 ## Date created
 
-Project Created: June 2026
+Project Created: 17 June 2026
 
 README Created: 17 June 2026
