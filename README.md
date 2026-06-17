@@ -3,7 +3,7 @@
 
 # Project Title
 
-Describe what your project is about and what it does
+Bikeshare Python Project
 
 ## Information about how to use your project
 
