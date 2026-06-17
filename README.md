@@ -3,11 +3,22 @@
 
 # Project Title
 
-**Bike Share** a Python-based data analysis project that explores bike-sharing data to identify travel trends, popular stations, peak usage times, trip durations, and user demographics. The project allows users to filter data by city, month, and day to generate meaningful insights.
+**Bike Share** a Python-based data analysis project that explores bike-sharing data to identify travel trends, popular stations, peak usage times, trip durations, and user demographics. The project allows users to filter data by city, month, and day to generate meaningful insights and see the reports.
 
 ## Information about how to use your project
 
-This could include:
+**This could include:**
+
+1. **Run the application using**:
+python bikeshare.py
+
+2. **Select a city, month, and day when prompted.**
+
+3. **The program analyzes the filtered dataset and displays:**
+Popular travel times
+Popular stations and routes
+Trip duration statistics
+User demographics and subscription information
 
 1. **Run the application using**:
 python bikeshare.py
@@ -24,11 +35,11 @@ User demographics and subscription information
 
 Contributions are welcome. To contribute:
 
-Fork the repository.
-Create a new feature branch.
-Make your changes and test them thoroughly.
-Commit your changes with clear commit messages.
-Submit a pull request describing your changes.
+1. Fork the repository.
+2. Create a new feature branch.
+3. Make your changes and test them thoroughly.
+4. Commit your changes with clear commit messages.
+5. Submit a pull request describing your changes.
 
 Please ensure that your code follows project standards and includes appropriate documentation.
 
@@ -40,4 +51,4 @@ This project was developed using Python and Pandas for data analysis.
 
 Project Created: June 2026
 
-README Created: June 2026
+README Created: 17 June 2026
