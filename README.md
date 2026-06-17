@@ -7,7 +7,7 @@
 
 ## Information about how to use your project
 
-This could include:
+**This could include:**
 
 1. **Run the application using**:
 python bikeshare.py
