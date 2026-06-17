@@ -24,11 +24,11 @@ User demographics and subscription information
 
 Contributions are welcome. To contribute:
 
-Fork the repository.
-Create a new feature branch.
-Make your changes and test them thoroughly.
-Commit your changes with clear commit messages.
-Submit a pull request describing your changes.
+1. Fork the repository.
+2. Create a new feature branch.
+3. Make your changes and test them thoroughly.
+4. Commit your changes with clear commit messages.
+5. Submit a pull request describing your changes.
 
 Please ensure that your code follows project standards and includes appropriate documentation.
 
