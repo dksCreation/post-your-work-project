@@ -5,6 +5,7 @@
 
 **Bike Share** a Python-based data analysis project that explores bike-sharing data to identify travel trends, popular stations, peak usage times, trip durations, and user demographics. The project allows users to filter data by city, month, and day to generate meaningful insights and see the reports.
 
+
 ## Information about how to use your project
 
 **This could include:**
@@ -19,6 +20,7 @@ Popular travel times
 Popular stations and routes
 Trip duration statistics
 User demographics and subscription information
+
 
 ## Contribution guidelines
 
